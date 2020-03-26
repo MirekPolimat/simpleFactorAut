@@ -13,5 +13,7 @@ public class EndPoint {
     public static final String LOGIN="/log";
     public static final String HELLO_API="/hello";
     public static final String HELLO_API_FUNCTION="/hf";
+    public static final String HELLO_API_FUN="/hf";
+    
     
 }
