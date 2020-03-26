@@ -1,0 +1,8 @@
+2020-03-26 09:29:37 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "TOKEN_API_USER[*]"; oczekiwano "TRUNCATE"
+Syntax error in SQL statement "TOKEN_API_USER[*]"; expected "TRUNCATE"; SQL statement:
+TOKEN_API_USER [42001-200]
+2020-03-26 09:44:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "TOKEN_API_USER[*]"; oczekiwano "TRUNCATE"
+Syntax error in SQL statement "TOKEN_API_USER[*]"; expected "TRUNCATE"; SQL statement:
+TOKEN_API_USER [42001-200]
